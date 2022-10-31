@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Juu-dev
 - 👀 I am interested in web, software and embedded development technologies
-- 🌱 I’m currently learning React, XML, Magentp, Java, SQL...
+- 🌱 I’m currently learning JavaScript, React, NodeJs, XML, Java, SQL...
 - 💞️ I’m looking to collaborate on somebody
 - 📫 I try to be better every day
 
