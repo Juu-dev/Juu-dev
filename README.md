@@ -72,19 +72,3 @@
     </div>
 </div>
 <br>
-
-<h2 align="center">📊 Github Stats 📊</h2>
-<br>
-<div align="center">
-    <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muoi07052001&layout=compact&theme=algolia"/>
-    <img width="434" src="https://github-readme-stats.vercel.app/api?username=muoi07052001&show_icons=true&theme=algolia" />
-</div>
-<br>
-
-<h2 align="center">📞 Contact me 📞</h2>
-<br>
-<div align="center">
-    <a href="https://www.facebook.com/profile.php?id=100014971986039" target="top"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-    <a href="https://github.com/Juu-dev?tab=repositories" target="top"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="mailto:thong.pm772002@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
